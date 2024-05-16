@@ -1,0 +1,14 @@
+/* .logoImg{
+   width:150px;
+   height:150px
+   
+} */
+.userH1{
+   font-size: 22px!important;
+   font-weight: 700!important;
+   line-height: 26px!important;
+   color:black!important;
+}
+.nav-item:hover {
+color: var(--main-color)!important;
+}
